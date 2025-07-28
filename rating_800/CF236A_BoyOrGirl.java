@@ -10,7 +10,6 @@ import java.util.*;
 public class CF236A_BoyOrGirl {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the username in lowercase: (alphabets only)");
         String username= sc.next();
         String s="";
         int len=username.length();
