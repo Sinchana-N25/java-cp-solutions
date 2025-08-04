@@ -2,7 +2,7 @@
 // Difficulty: Medium
 // Link: https://leetcode.com/problems/reverse-integer/
 
-package Easy;
+package Medium;
 public class p7_ReverseInteger {
     class Solution {
     public int reverse(int x) {
