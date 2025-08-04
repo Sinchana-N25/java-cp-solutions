@@ -29,5 +29,6 @@ public class CF236A_BoyOrGirl {
         {
             System.out.println("IGNORE HIM!");
         }
+        sc.close();
     }
 }

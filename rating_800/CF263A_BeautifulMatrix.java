@@ -53,5 +53,6 @@ public class CF263A_BeautifulMatrix {
         }
     }
     System.out.println(count);
+    sc.close();
 }
 }

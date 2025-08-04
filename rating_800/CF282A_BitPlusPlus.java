@@ -25,5 +25,6 @@ public class CF282A_BitPlusPlus {
             }
         }
         System.out.println(X);
+        sc.close();
     }
 }
