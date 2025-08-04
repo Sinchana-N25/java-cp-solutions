@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/max-consecutive-ones/
 package Easy;
-import java.util.*;
 public class p485_MaxConsecutiveOnes{
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {

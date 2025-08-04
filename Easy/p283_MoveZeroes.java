@@ -3,7 +3,6 @@
 // Link: https://leetcode.com/problems/move-zeroes/
 
 package Easy;
-import java.util.*;
 public class p283_MoveZeroes {
 
      class Solution {
