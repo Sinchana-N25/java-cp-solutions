@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link:https://leetcode.com/problems/length-of-last-word
 
-package Easy;
 public class p58_LengthOfLastWord{
 class Solution {
     public int lengthOfLastWord(String s) {

@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
-package Easy;
 public class p1295_EvenNumberOfDigits {
     class Solution {
     public int findNumbers(int[] nums) {

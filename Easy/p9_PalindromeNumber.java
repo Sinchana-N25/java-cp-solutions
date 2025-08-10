@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/palindrome-number/
 
-package Easy;
 public class p9_PalindromeNumber {
     class Solution {
     public boolean isPalindrome(int x) {

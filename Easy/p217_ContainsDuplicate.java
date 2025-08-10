@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/contains-duplicate/description/
 
-package Easy;
-
 import java.util.*;
 public class p217_ContainsDuplicate {
     class Solution {

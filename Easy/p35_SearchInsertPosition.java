@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/search-insert-position/
 
-package Easy;
-
 public class p35_SearchInsertPosition {
     class Solution {
     public int searchInsert(int[] nums, int target) {

@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Link:https://leetcode.com/problems/reverse-string/description/
 
-package Easy;
-
 public class p344_ReverseString {
     class Solution {
     public void reverseString(char[] s) {

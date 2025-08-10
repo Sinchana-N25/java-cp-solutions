@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/move-zeroes/
 
-package Easy;
 public class p283_MoveZeroes {
 
      class Solution {

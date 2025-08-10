@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/middle-of-the-linked-list/
 
-
-package Easy;
 public class p786_MiddleOfLinkedList {
     /**
  * Definition for singly-linked list.

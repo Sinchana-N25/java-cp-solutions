@@ -2,8 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/valid-parentheses/
 
-package Easy;
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 public class p20_ValidParentheses {

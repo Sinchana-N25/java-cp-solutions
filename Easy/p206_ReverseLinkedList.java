@@ -2,7 +2,6 @@
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/reverse-linked-list/
 
-package Easy;
 //   Definition for singly-linked list.
 class ListNode {
     int val;
